@@ -18,7 +18,7 @@ Build image from docker file
 ```shell
 docker build -f DockerFile -t carsidock:v1 .
 ```
-or use image in DockerHub.
+or use image in DockerHub. **RECOMMEND**
 ```shell
 docker tag abtion/carsidock:v2 carsidock:v1
 ```
